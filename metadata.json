@@ -1,0 +1,9 @@
+{
+  "name": "Little Ai",
+  "description": "An all-in-one AI platform showcasing the power of Gemini: Chat, Vision, Real-time Voice, Image Generation, and Web-grounded Search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
